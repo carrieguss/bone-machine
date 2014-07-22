@@ -7,7 +7,7 @@ body {
   color: #333;
   font-size: 16px;
   font-weight: 300;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Lato", "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 section {
@@ -15,6 +15,8 @@ section {
 }
 
 h1.title {
+	font-family: "Lora", "Droid Serif," serif;
+	font-weight: 700;
   border-bottom: 1px solid #333;
 }
 
